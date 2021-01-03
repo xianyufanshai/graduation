@@ -1,0 +1,158 @@
+
+body{
+	
+		background:url(../images/bk01.jpg)  no-repeat  center;
+		background-size: cover;
+		background-attachment: fixed;
+
+}
+
+
+
+.m-container{
+	max-width: 70em !important;
+	margin: auto !important;
+}
+
+
+
+.m-padded-tb-mini{
+	padding-top:0.1em !important;
+	padding-bottom: 0.1em !important;
+}
+.m-padded-tb-small{
+	padding-top:0.2em !important;
+	padding-bottom: 0.2em !important;
+}
+
+.m-padded-tb{
+	padding-top:0.5em !important;
+	padding-bottom: 0.5em !important;
+}
+
+.m-padded-tb-large{
+	padding-top:1em !important;
+	padding-bottom: 1em !important;
+}
+.m-padded-tb-big{
+	padding-top:2em !important;
+	padding-bottom: 2em !important;
+}
+.m-padded-tb-huge{
+	padding-top:3em !important;
+	padding-bottom: 3em !important;
+}
+
+.m-padded-tb-massive{
+	padding-top:4em !important;
+	padding-bottom: 4em !important;
+}
+
+.m-padded-lr{
+	padding-left: 4em !important;
+	padding-right: 4em !important;
+}
+/*------margin------*/
+.m-margin-tb-mini{
+	margin-bottom:0.3em !important;
+	margin-top:0.3em !important;
+}
+/*----文字------*/
+.m-text-thin{
+	font-weight: 650 !important;
+}
+
+.m-text-spaced{
+	letter-spacing: 1px !important;
+}
+
+.m-text-lined{
+	line-height: 1.8;
+}
+
+.m-opacity-mini{
+	opacity: 0.8 !important;
+}
+
+.m-p{
+	text-align: justify;
+
+	font-size:16px ;
+}
+/********content*********/
+.m-content{
+	font-size: 20px !important;
+	color: blue !important;
+	font-weight: 800 !important;
+}
+
+
+/*********图片**********/
+.m-round-icon{
+	width: 125px;
+  height: 125px;
+  display: flex;
+  border-radius: 50%;
+  align-items: center;
+  justify-content: center;
+  overflow: hidden;
+}
+
+/*********标签*********/
+
+
+
+.m-inline-block{
+	display: inline-block !important;
+}
+
+.btn6{width:120px;color:teal;}
+.common-text{height: 30px;line-height: 23px;padding: 2px 4px;border: 1px solid #ccc;background: #fff;border-radius:5px;}
+
+.insert-tab{border-collapse:collapse;border:1px solid #eee;}
+.insert-tab th,.insert-tab td{border:1px solid #eee;}
+.insert-tab tr{line-height:40px;}
+.insert-tab th{text-align:right;font-weight:normal;padding-right:10px;font-size:14px;}
+.insert-tab td{text-align:left;padding-left:10px;}
+
+
+
+
+
+
+
+.msgL {
+    width: 945px;
+}
+
+.msgL .msgTit {
+    border-top: 1px solid #dbdbdb;
+    border-bottom: 1px solid #dbdbdb;
+    height: 40px;
+    line-height: 40px;
+    margin-bottom: 30px;
+}
+
+.msgL .msgTit a {
+    float: left;
+    width: 90px;
+    text-align: center;
+    cursor: pointer;
+}
+
+.msgL .msgTit a.on {
+    border-bottom: 1px solid #c10000;
+}
+
+.msgL .msgAll .eva {
+    display: none;
+}
+
+.per {
+    border-bottom: 1px dashed #dbdbdb;
+    margin-bottom: 10px;
+}
+
+
+
+
